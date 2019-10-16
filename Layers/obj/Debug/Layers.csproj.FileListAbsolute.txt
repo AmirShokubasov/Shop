@@ -1,0 +1,394 @@
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\ApplicationInsights.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\csc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\System.Collections.Immutable.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\System.Reflection.Metadata.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\vbc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\VBCSCompiler.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Layers.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Antlr3.Runtime.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.DependencyCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.Web.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.WindowsServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.ApplicationInsights.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Newtonsoft.Json.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Helpers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Optimization.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.Deployment.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\WebGrease.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.DependencyCollector.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.Web.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.AI.WindowsServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.ApplicationInsights.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Helpers.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Optimization.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.Deployment.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.Web.WebPages.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Antlr3.Runtime.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Newtonsoft.Json.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\obj\Debug\Layers.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\obj\Debug\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\obj\Debug\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Common.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Common.WebHost.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Common.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Common.WebHost.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\Layers\bin\Ninject.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\ApplicationInsights.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\csc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\System.Collections.Immutable.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\System.Reflection.Metadata.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\vbc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\VBCSCompiler.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Layers.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Antlr3.Runtime.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.DependencyCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.Web.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.WindowsServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.ApplicationInsights.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Newtonsoft.Json.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Common.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Common.WebHost.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Helpers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Optimization.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.Deployment.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\WebGrease.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.DependencyCollector.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.Web.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.AI.WindowsServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.ApplicationInsights.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Common.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Common.WebHost.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Ninject.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Helpers.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Optimization.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.Deployment.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\System.Web.WebPages.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Antlr3.Runtime.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\bin\Newtonsoft.Json.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\obj\Debug\Layers.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\obj\Debug\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\Layers\obj\Debug\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\obj\Debug\Layers.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\obj\Debug\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\obj\Debug\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\ApplicationInsights.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\csc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\System.Collections.Immutable.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\System.Reflection.Metadata.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\vbc.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\VBCSCompiler.exe
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Layers.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Layers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Layers.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Antlr3.Runtime.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.DependencyCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.Web.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.WindowsServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.ApplicationInsights.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Newtonsoft.Json.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Common.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Common.WebHost.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Helpers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Mvc.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Optimization.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.Deployment.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.Razor.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\WebGrease.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.DependencyCollector.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.Web.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.AI.WindowsServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.ApplicationInsights.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Common.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Common.WebHost.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Ninject.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Helpers.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Mvc.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Optimization.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.Deployment.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.WebPages.Razor.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Antlr3.Runtime.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\Newtonsoft.Json.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Providers.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\Layers\bin\System.Web.Providers.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\obj\Debug\Layers.csprojResolveAssemblyReference.cache
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\obj\Debug\Layers.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\obj\Debug\Layers.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\ApplicationInsights.config
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\csc.exe
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\System.Collections.Immutable.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\vbc.exe
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\VBCSCompiler.exe
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\roslyn\VBCSCompiler.exe.config
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Layers.dll.config
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Layers.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Layers.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Antlr3.Runtime.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\AutoMapper.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\EntityFramework.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\EntityFramework.SqlServer.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\LayersDAL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\LayersDLL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.Agent.Intercept.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.DependencyCollector.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.Web.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.WindowsServer.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.ApplicationInsights.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.Web.Infrastructure.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Newtonsoft.Json.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.WebHost.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Mvc.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.ValueTuple.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Helpers.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Mvc.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Optimization.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Providers.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Razor.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Deployment.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Razor.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\WebGrease.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\LayersDLL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\LayersDAL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\AutoMapper.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\AutoMapper.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\EntityFramework.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\EntityFramework.SqlServer.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.DependencyCollector.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.Web.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.AI.WindowsServer.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.ApplicationInsights.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.WebHost.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Ninject.Web.Mvc.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.ValueTuple.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Providers.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Helpers.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Mvc.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Optimization.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.Razor.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Deployment.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Razor.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Antlr3.Runtime.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\Layers\bin\Newtonsoft.Json.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\ApplicationInsights.config
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\csc.exe
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\System.Collections.Immutable.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\System.Reflection.Metadata.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\vbc.exe
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\VBCSCompiler.exe
+D:\Epam\LayersArсhExForm1\Layers\bin\roslyn\VBCSCompiler.exe.config
+D:\Epam\LayersArсhExForm1\Layers\bin\Layers.dll.config
+D:\Epam\LayersArсhExForm1\Layers\bin\Layers.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Layers.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\Antlr3.Runtime.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\AutoMapper.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\EntityFramework.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\EntityFramework.SqlServer.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\LayersDAL.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\LayersDLL.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.DependencyCollector.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.Web.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.WindowsServer.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.ApplicationInsights.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.Web.Infrastructure.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Newtonsoft.Json.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.WebHost.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Mvc.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Net.Http.Formatting.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.ValueTuple.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Helpers.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Http.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Http.WebHost.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Mvc.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Optimization.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Providers.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Razor.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Deployment.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Razor.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\WebGrease.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\LayersDLL.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\LayersDAL.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\LayersDAL.dll.config
+D:\Epam\LayersArсhExForm1\Layers\bin\AutoMapper.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\AutoMapper.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\EntityFramework.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\EntityFramework.SqlServer.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.DependencyCollector.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.Web.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.AI.WindowsServer.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.ApplicationInsights.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Common.WebHost.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.Mvc.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Net.Http.Formatting.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.ValueTuple.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Http.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Http.WebHost.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Providers.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Helpers.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Mvc.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Optimization.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.Razor.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Deployment.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\System.Web.WebPages.Razor.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Antlr3.Runtime.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\Newtonsoft.Json.xml
+D:\Epam\LayersArсhExForm1\Layers\obj\Debug\Layers.csprojAssemblyReference.cache
+D:\Epam\LayersArсhExForm1\Layers\obj\Debug\Layers.csproj.CopyComplete
+D:\Epam\LayersArсhExForm1\Layers\obj\Debug\Layers.dll
+D:\Epam\LayersArсhExForm1\Layers\obj\Debug\Layers.pdb
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.WebApi.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.WebApi.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.Integration.WebApi.dll
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+D:\Epam\LayersArсhExForm1\Layers\bin\SimpleInjector.Integration.WebApi.xml

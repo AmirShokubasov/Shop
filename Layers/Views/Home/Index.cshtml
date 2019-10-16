@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Layers.Models.GoodVM>
+
+
+<h2>All goods presented below:</h2>
+<p>
+    @Html.ActionLink("Create New", "Add")
+</p>
+<p>
+    @using (Html.BeginForm("Index","Home",FormMethod.Get))
+    {
+        <b>Search:</b> //@Html.RadioButton("searchBy", "Company") <text>Company</text>
+        @Html.TextBox("search") <input type="submit"
+                                       value="Search" />
+    }
+</p>
+<table class="table" border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Company)*@
+            @Html.ActionLink("Company","Index",new { search = Request["search"],sortBy = ViewBag.NameSort})
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            Action
+        </th>
+    </tr>
+@if (Model.Count() == 0)
+{
+    <tr>
+        <td colspan="4">No rows match search</td>
+    </tr>
+}
+else
+{
+    foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Buy", "Buy", new { name = item.Name, price = (int)item.Price })
+            @Html.ActionLink("Edit", "Edit", new { id = (int)item.Id, name = item.Name, price = (int)item.Price, company = item.Company })
+            @using (Html.BeginForm("Delete", "Home", new { id = (int)item.Id })){
+                <input type="submit" value="Delete" onclick="return confirm('Your record  with id = @item.Id will be deleted')" />
+             }
+
+        </td>
+    </tr>
+    }
+}
+</table>

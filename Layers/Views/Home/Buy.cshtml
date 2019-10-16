@@ -1,0 +1,18 @@
+﻿@model Layers.Models.OrderVM
+
+@*@Html.HiddenFor(model=>model.UserId)*@
+    <h2>Purchase of good</h2>
+<dl class="="dl-horizontal">
+    @using (Html.BeginForm())
+    {
+        <dt>@Html.DisplayNameFor(model=>model.Name)</dt>
+        <dd> @Html.DisplayFor(model=>model.Name)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Price)</dt>
+        <dd> @Html.DisplayFor(model => model.Price)</dd>
+
+        <dd>
+            <input type="submit" value="Buy">
+        </dd>
+    }
+</dl>

@@ -1,0 +1,50 @@
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\LayersDAL.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\obj\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\obj\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersDAL\obj\Debug\LayersDAL.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\obj\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\obj\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\LayersDAL.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\LayersDAL.dll.config
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\obj\Debug\LayersDAL.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\obj\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersDAL\obj\Debug\LayersDAL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.csprojResolveAssemblyReference.cache
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.dll.config
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.dll.config
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.dll
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\LayersDAL.pdb
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.dll
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.xml
+D:\Epam\LayersArсhExForm1\LayersDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Epam\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.csprojAssemblyReference.cache
+D:\Epam\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.csproj.CopyComplete
+D:\Epam\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.dll
+D:\Epam\LayersArсhExForm1\LayersDAL\obj\Debug\LayersDAL.pdb

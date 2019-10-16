@@ -1,0 +1,82 @@
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\obj\Debug\LayersBLL.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\obj\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсh\LayersBLL\obj\Debug\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\obj\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\obj\Debug\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhEx\LayersBLL\obj\Debug\LayersBLL.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\LayersDLL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\AutoMapper.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\LayersDAL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\Ninject.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\System.ValueTuple.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\EntityFramework.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\LayersDAL.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\AutoMapper.pdb
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\AutoMapper.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\Ninject.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\System.ValueTuple.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\bin\Debug\EntityFramework.xml
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\obj\Debug\LayersBLL.csprojResolveAssemblyReference.cache
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\obj\Debug\LayersDLL.dll
+F:\Users\galina\0 тренинги\MVC\Example\LayersArсhExForm\LayersBLL\obj\Debug\LayersDLL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\obj\Debug\LayersBLL.csprojResolveAssemblyReference.cache
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\obj\Debug\LayersDLL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\obj\Debug\LayersDLL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDLL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDLL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDAL.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\Ninject.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\System.ValueTuple.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\EntityFramework.dll
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDAL.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.pdb
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\Ninject.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\System.ValueTuple.xml
+D:\EPAM.Karaeva\LayersArсhExForm1\LayersArсhExForm1\LayersBLL\bin\Debug\EntityFramework.xml
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDLL.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDLL.pdb
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDAL.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\Ninject.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\System.ValueTuple.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\EntityFramework.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDAL.pdb
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\LayersDAL.dll.config
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.pdb
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\AutoMapper.xml
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\Ninject.xml
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\System.ValueTuple.xml
+D:\Epam\LayersArсhExForm1\LayersBLL\bin\Debug\EntityFramework.xml
+D:\Epam\LayersArсhExForm1\LayersBLL\obj\Debug\LayersBLL.csprojAssemblyReference.cache
+D:\Epam\LayersArсhExForm1\LayersBLL\obj\Debug\LayersBLL.csproj.CopyComplete
+D:\Epam\LayersArсhExForm1\LayersBLL\obj\Debug\LayersDLL.dll
+D:\Epam\LayersArсhExForm1\LayersBLL\obj\Debug\LayersDLL.pdb
